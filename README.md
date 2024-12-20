@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Umashankar Vengala! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building innovative solutions and contributing to the open-source community.
-
+<!--
 ## 🔭 Current Projects
 - **[Project Name](link-to-project)**: Brief description of the project.
 - **[Project Name](link-to-project)**: Brief description of the project.
@@ -48,3 +48,5 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UMASHANKAR-VENGALA&show_icons=true&theme=radical)
+
+-->
