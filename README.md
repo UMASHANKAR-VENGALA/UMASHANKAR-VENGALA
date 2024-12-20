@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Umashankar Vengala! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building innovative solutions and contributing to the open-source community.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building innovative projects.
+
 <!--
 ## 🔭 Current Projects
 - **[Project Name](link-to-project)**: Brief description of the project.
